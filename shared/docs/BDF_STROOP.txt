@@ -1,0 +1,11 @@
+Bin 1
+Incongruent
+.{3}{t<200-1000>8}
+
+Bin 2
+Control
+.{13}{t<200-1000>8}
+
+Bin 3
+Congruent
+.{15}{t<200-1000>8}

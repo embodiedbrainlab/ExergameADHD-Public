@@ -1,0 +1,7 @@
+Bin 1
+Correct Response
+{t<200-2261>15}.{8}
+
+Bin 2
+Incorrect Response
+{t<200-3989>15}.{12}

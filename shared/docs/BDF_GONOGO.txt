@@ -1,0 +1,15 @@
+Bin 1
+Vertical Go, high probability after vertical cue
+.{13}{t<200-1000>8}
+
+Bin 2
+Vertical No/Go, low probability after vertical cue
+.{9}{t<200-1100>8}
+
+Bin 3
+Horizontal Go, low probability after horizontal cue
+.{15}{t<200-1000>8}
+
+Bin 4
+Horizontal No/Go, high probability after horizontal cue
+.{7}{t<200-1100>8}

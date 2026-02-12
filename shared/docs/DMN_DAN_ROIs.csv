@@ -1,0 +1,27 @@
+﻿roi_names,original_index,new_index
+isthmuscingulate L,2,1
+posteriorcingulate L,3,2
+rostralanteriorcingulate L,4,3
+lateralorbitofrontal L,6,4
+medialorbitofrontal L,7,5
+parahippocampal L,20,6
+precuneus L,25,7
+isthmuscingulate R,36,8
+posteriorcingulate R,37,9
+rostralanteriorcingulate R,38,10
+lateralorbitofrontal R,40,11
+medialorbitofrontal R,41,12
+parahippocampal R,54,13
+precuneus R,59,14
+caudalanteriorcingulate L,1,15
+parsorbitalis L,8,16
+parsopercularis L,10,17
+parstriangularis L,11,18
+inferiortemporal L,17,19
+middletemporal L,19,20
+caudalanteriorcingulate R,35,21
+parsorbitalis R,42,22
+parsopercularis R,44,23
+parstriangularis R,45,24
+inferiortemporal R,51,25
+middletemporal R,53,26
