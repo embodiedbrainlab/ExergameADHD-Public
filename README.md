@@ -117,6 +117,8 @@ This repository supports two papers in preparation for submission to peer-review
    - Source localization: DIPFIT (MNI template)
    - Component selection: ICLabel (>50% brain, RV <15%)
 
+![EEG Preprocessing Pipeline](images/EEGpreprocessing.png)
+
 2. **Clustering** (k-means, 7-21 clusters tested, 11 identified)
 
 3. **Power Spectral Density** (`SpecParamPrep.m`)
@@ -137,6 +139,8 @@ This repository supports two papers in preparation for submission to peer-review
    - Line noise removal: Cleanline (60 Hz)
    - ICA: Extended Infomax on 1-30 Hz copy
    - Artifact rejection: Voltage thresholds, moving window
+
+![ERP Preprocessing Pipeline](images/ERPpreprocessing.png)
 
 2. **Component Measurement**
    - All measured on difference waves
@@ -166,6 +170,11 @@ This repository supports two papers in preparation for submission to peer-review
    - Metrics: RMS distance, mean velocity
 
 2. **Statistical Modeling** (`shared/force_preprocessing/03_modeling_COP.R`)
+
+### Generalized Linear Model with LASSO Regularization Pipeline
+This model was created for Paper 1 to identify top predictors of ADHD symptom severity while optimizing the regularization parameter (lambda)
+
+![Overview of LASSO Regularization Pipeline](images/GLMwithLASSO.png)
 
 ---
 
