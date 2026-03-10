@@ -3,7 +3,7 @@
 This repository contains the complete analytical pipeline for a dissertation investigating psychological, behavioral, and neural outcomes in young adults with ADHD following exergaming interventions.
 
 **Dissertation Citation:**
-Tasnim, N.E. (2026). Identifying the psychological, behavioral, and neural effects of dance on young adults with ADHD [Doctoral disseration, Virginia Tech].
+Tasnim, N.E. (2026). Identifying the psychological, behavioral, and neural effects of dance on young adults with ADHD [Doctoral disseration, Virginia Tech](https://vtechworks.lib.vt.edu/items/db932272-b055-4242-95c7-898b3329fbc5).
 
 ## Study Overview
 
